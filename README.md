@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Campus Resistance - Resources for Liberal College Campus Organizations
 
-You can use the [editor on GitHub](https://github.com/AeLeblanc/campus-resistance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can download resources or request information from Ragtag Team to help further liberal causes on your campus!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Using Markdown.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](http://ragtag.team) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
